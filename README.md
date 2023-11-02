@@ -1,5 +1,5 @@
 ## Description
-This repositorty contains the start code of a very basic React Web App that we will be interating on during the BP interview.  Please make sure you are able to build and run the web application prior to the interview.  If built correctly, the starter code should display two simple charts. 
+This repositorty contains the starter code of a very basic React Web App that we will be interating on during the BP interview.  Please make sure you are able to build and run the web application prior to the interview.  If built correctly, the starter code should display two simple charts. 
 
 ## Available Scripts
 
